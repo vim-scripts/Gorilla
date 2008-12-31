@@ -1,0 +1,6 @@
+
+  version.txt -- Version Information for gorilla (syntax: Text)
+  [automatically generated and maintained by GNU shtool]
+
+  This is gorilla, Version 1.1.1 (31-Dec-2008)
+
